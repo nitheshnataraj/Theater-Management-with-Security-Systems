@@ -43,7 +43,7 @@ User authentication is a fundamental security measure implemented to validate th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/nitheshnataraj/theater-management.git
+    git clone https://github.com/nitheshnataraj/Theater-Management-with-Security-Systems
     ```
 
 2. Set up the MySQL database by executing the SQL scripts provided in the `database-scripts` folder.
